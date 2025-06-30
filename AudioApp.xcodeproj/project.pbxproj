@@ -20,7 +20,7 @@
 		D26D3B322CAF7982008285A5 /* RecordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D26D3B312CAF7982008285A5 /* RecordView.swift */; };
 		D26D3B342CAF7986008285A5 /* RenameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D26D3B332CAF7986008285A5 /* RenameView.swift */; };
 		D26D3B362CAF798C008285A5 /* AudioRecorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D26D3B352CAF798C008285A5 /* AudioRecorder.swift */; };
-		D26D3B382CAF7991008285A5 /* Hear-View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D26D3B372CAF7991008285A5 /* Hear-View.swift */; };
+		D26D3B382CAF7991008285A5 /* HearView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D26D3B372CAF7991008285A5 /* HearView.swift */; };
 		D273283A2E1241050073EFA4 /* audio-2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D27328392E1241050073EFA4 /* audio-2.mp3 */; };
 /* End PBXBuildFile section */
 
@@ -40,7 +40,7 @@
 		D26D3B312CAF7982008285A5 /* RecordView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordView.swift; sourceTree = "<group>"; };
 		D26D3B332CAF7986008285A5 /* RenameView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RenameView.swift; sourceTree = "<group>"; };
 		D26D3B352CAF798C008285A5 /* AudioRecorder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioRecorder.swift; sourceTree = "<group>"; };
-		D26D3B372CAF7991008285A5 /* Hear-View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Hear-View.swift"; sourceTree = "<group>"; };
+		D26D3B372CAF7991008285A5 /* HearView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HearView.swift; sourceTree = "<group>"; };
 		D27328392E1241050073EFA4 /* audio-2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "audio-2.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -84,7 +84,7 @@
 				D26D3B2E2CAF7979008285A5 /* audio.mp3 */,
 				D26D3B332CAF7986008285A5 /* RenameView.swift */,
 				D26D3B352CAF798C008285A5 /* AudioRecorder.swift */,
-				D26D3B372CAF7991008285A5 /* Hear-View.swift */,
+				D26D3B372CAF7991008285A5 /* HearView.swift */,
 				D26D3B312CAF7982008285A5 /* RecordView.swift */,
 				D27328392E1241050073EFA4 /* audio-2.mp3 */,
 				D26D3B142CAF78FF008285A5 /* ViewController.swift */,
@@ -171,7 +171,7 @@
 				D26D3B2B2CAF796F008285A5 /* HomeView.swift in Sources */,
 				D26D3B152CAF78FF008285A5 /* ViewController.swift in Sources */,
 				D26D3B362CAF798C008285A5 /* AudioRecorder.swift in Sources */,
-				D26D3B382CAF7991008285A5 /* Hear-View.swift in Sources */,
+				D26D3B382CAF7991008285A5 /* HearView.swift in Sources */,
 				D26D3B2D2CAF7974008285A5 /* BottomView.swift in Sources */,
 				D26D3B112CAF78FF008285A5 /* AppDelegate.swift in Sources */,
 				D26D3B132CAF78FF008285A5 /* SceneDelegate.swift in Sources */,
